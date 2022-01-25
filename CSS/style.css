@@ -28,9 +28,7 @@ font-size: 4rem;
 
 /* My Code*/
 
-body {
-    background: url('CSS/grid-flex-assignment.png') 3px 19px no-repeat;
-}
+
 
 .emojis{
     display: grid;
